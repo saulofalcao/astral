@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  valor_orcamento: 1.5
+  tipo_servico_id: 1
+  cliente_id: 1
+
+two:
+  valor_orcamento: 1.5
+  tipo_servico_id: 1
+  cliente_id: 1
